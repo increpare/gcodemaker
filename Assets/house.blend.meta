@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: 847ec15eac59445fc96b59c7fd5939cc
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: house
+    100004: Icosphere
+    100006: Icosphere_small
+    100008: roll
+    100010: rollsimple
+    100012: Text
+    100014: Text_001
+    100016: Text_002
+    100018: cylinder
+    100020: noslip
+    100022: noslip_reduced
+    100024: pyramid
+    400000: //RootNode
+    400002: house
+    400004: Icosphere
+    400006: Icosphere_small
+    400008: roll
+    400010: rollsimple
+    400012: Text
+    400014: Text_001
+    400016: Text_002
+    400018: cylinder
+    400020: noslip
+    400022: noslip_reduced
+    400024: pyramid
+    2300000: house
+    2300002: Icosphere
+    2300004: Icosphere_small
+    2300006: roll
+    2300008: rollsimple
+    2300010: Text
+    2300012: Text_001
+    2300014: Text_002
+    2300016: cylinder
+    2300018: noslip
+    2300020: noslip_reduced
+    2300022: pyramid
+    3300000: house
+    3300002: Icosphere
+    3300004: Icosphere_small
+    3300006: roll
+    3300008: rollsimple
+    3300010: Text
+    3300012: Text_001
+    3300014: Text_002
+    3300016: cylinder
+    3300018: noslip
+    3300020: noslip_reduced
+    3300022: pyramid
+    4300000: Icosphere_small
+    4300002: Icosphere
+    4300004: rollsimple
+    4300006: roll
+    4300008: house
+    4300010: Text_001
+    4300012: Text
+    4300014: Text_002
+    4300016: cylinder
+    4300018: noslip
+    4300020: noslip_reduced
+    4300022: pyramid
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
